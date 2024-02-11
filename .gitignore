@@ -1,0 +1,37 @@
+# Rust
+/target
+**/*.rs.bk
+
+# Cargo
+/Cargo.lock
+
+# Node (para JavaScript e TypeScript)
+/node_modules
+/npm-debug.log
+/yarn-error.log
+
+# Diretórios de distribuição/compilação (dependendo do seu setup)
+/dist
+/build
+
+# Arquivos de configuração de ambiente
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Sistema de Arquivos
+.DS_Store
+Thumbs.db
+
+# Arquivos de editor (dependendo do seu editor/IDE)
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Outros arquivos comuns a serem ignorados
+*.log
+*.tmp
+*.temp

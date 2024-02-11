@@ -1,0 +1,8 @@
+# Node (para JavaScript e TypeScript)
+/node_modules
+/npm-debug.log
+/yarn-error.log
+
+# Diretórios de distribuição/compilação (dependendo do seu setup)
+/dist
+/build
