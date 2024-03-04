@@ -30,8 +30,7 @@ Para executar as soluções presentes neste repositório, siga as instruções e
 1. Assegure-se de ter o Node.js e o npm (Node Package Manager) instalados. Visite [https://nodejs.org](https://nodejs.org) para instruções de instalação.
 2. Instale o TypeScript globalmente em seu sistema, se ainda não o tiver, utilizando o comando `npm install -g typescript`.
 3. Navegue até a pasta `leetcode` do projeto.
-4. Compile o arquivo TypeScript desejado para JavaScript usando `tsc nome_do_arquivo.ts`.
-5. Execute o arquivo JavaScript resultante com `node nome_do_arquivo.js`.
+4. Execute o arquivo Typescript com `npm run dev nome_do_exercicio`.
 
 ## Contribuindo
 
@@ -40,4 +39,3 @@ Sua contribuição é bem-vinda! Sinta-se livre para forkar o repositório, faze
 ---
 
 Esperamos que este repositório ajude você a aprimorar suas habilidades de programação e a resolver desafios de codificação de maneira eficaz!
-
